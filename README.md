@@ -5,9 +5,9 @@ A Power BI dashboard that analyzes bike-sharing data from multiple cities to hel
 This dashboard shows:
 
 How many bikes are being used
-Which cities perform best
-When bikes are used the most
-Which stations need attention
+- Which cities perform best
+- When bikes are used the most
+- Which stations need attention
 
 🔧 Tools Used
 
@@ -22,9 +22,9 @@ Created relationships between stations and usage data
 
 Calculations Created
 
-Day Type: Marks weekend vs weekday
-Station Status: Shows if station is active or inactive
-Peak Hours: Identifies busy times (5 PM - 8 PM)
+**Day Type:** Marks weekend vs weekday.
+**Station Status:** Shows if station is active or inactive.
+**Peak Hours:** Identifies busy times (5 PM - 8 PM).
 
 Metrics Tracked
 
