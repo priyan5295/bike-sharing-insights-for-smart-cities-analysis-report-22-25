@@ -1,4 +1,4 @@
-# b🚴 Bike Sharing Dashboard for Smart Cities
+🚴 Bike Sharing Dashboard for Smart Cities
 
 A Power BI dashboard that analyzes bike-sharing data from multiple cities to help understand how well the system is working.
 📊 What This Project Does
