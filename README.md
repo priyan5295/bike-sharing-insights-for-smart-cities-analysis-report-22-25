@@ -21,52 +21,46 @@ Connected different data tables
 Created relationships between stations and usage data
 
 Calculations Created
-
-**Day Type:** Marks weekend vs weekday.
-**Station Status:** Shows if station is active or inactive.
-**Peak Hours:** Identifies busy times (5 PM - 8 PM).
+- **Day Type:** Marks weekend vs weekday.
+- **Station Status:** Shows if station is active or inactive.
+- **Peak Hours:** Identifies busy times (5 PM - 8 PM).
 
 Metrics Tracked
-
-Total bikes available
-Total capacity
-How much the system is being used (Utilization %)
-Number of stations in critical condition
-Free bike slots available
+- Total bikes available
+- Total capacity
+- How much the system is being used (Utilization %)
+- Number of stations in critical condition
+- Free bike slots available
 
 🎯 Main Findings
 Overall Stats
-
-20,000 bikes in the system
-57,000 total capacity
-34% utilization (bikes are underused)
-986 stations total
-750 stations need urgent attention
+- 20,000 bikes in the system
+- 57,000 total capacity
+- 34% utilization (bikes are underused)
+- 986 stations total
+- 750 stations need urgent attention
 
 Best Performing Cities
-
-Lyon - 6,000 bikes used
-Toulouse - 5,000 bikes used
-Bruxelles-Capitale - 5,000 bikes used
+- Lyon - 6,000 bikes used
+- Toulouse - 5,000 bikes used
+- Bruxelles-Capitale - 5,000 bikes used
 
 Worst Performing Cities
-
-Vilnius - Only 1,000 bikes used
-Luxembourg - Only 1,000 bikes used
+- Vilnius - Only 1,000 bikes used
+- Luxembourg - Only 1,000 bikes used
 
 Problems Found
-
-System only works at 34% capacity (should be 60-70%)
-76% of stations are in critical condition
-Huge difference between peak hours and off-peak hours
-Weekdays have very low usage
+- System only works at 34% capacity (should be 60-70%)
+- 76% of stations are in critical condition
+- Huge difference between peak hours and off-peak hours
+- Weekdays have very low usage
 
 💡 Recommendations
 
 Fix critical stations first
-Move bikes to high-demand areas
-Encourage more weekday usage
-Focus on top-performing cities
+ - Move bikes to high-demand areas
+ - Encourage more weekday usage
+ - Focus on top-performing cities
 
 📸 Dashboard Preview
 Bike Stations for Smart Cities Analysis
@@ -74,16 +68,21 @@ Bike Stations for Smart Cities Analysis
 
 
 **What Needs to Be Done**
-Fix critical infrastructure - Focus on repairing 750 stations
-Redistribute bikes - Move bikes to high-demand areas
-Increase weekday usage - Create programs to encourage more rides
-Exit low-performing markets - Stop investing in cities with poor results
-
-
+<ul>
+  <li>Fix critical infrastructure - Focus on repairing 750 stations.</li>
+  <li>Redistribute bikes - Move bikes to high-demand areas.</li>
+  <li>Increase weekday usage - Create programs to encourage more rides.</li>
+  <li>Exit low-performing markets - Stop investing in cities with poor results.</li>
+</ul> 
 
 📝 Conclusion
 Current Situation
-The bike-sharing system is working at only 34% capacity with 76% of stations in critical condition. There's a huge drop in usage during weekdays (99% less than peak hours). Cities like Lyon and Toulouse are doing well, but cities like Vilnius and Luxembourg are struggling.
+<ul>
+  <li>The bike-sharing system is working at only 34% capacity with 76% of stations in critical condition. </li>
+  <li>There's a huge drop in usage during weekdays (99% less than peak hours). </li>
+  <li>Cities like Lyon and Toulouse are doing well, but cities like Vilnius and Luxembourg are struggling.</li>
+</ul>
+
 
 
 📁 Files Included
